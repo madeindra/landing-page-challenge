@@ -47,6 +47,63 @@ html, body {
   font-weight: lighter;
 }
 
+.center-box{
+  text-align: center;
+  position: relative;
+  top: 30vh;
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.bottom-box{
+  text-align: center;
+  position: relative;
+  top: 70vh;
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.title{
+  font-weight: bold;
+  font-size: 3.5vw;
+}
+
+.subtitle{
+  position: relative;
+  top: 1.5vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1vw;
+}
+
+.button{
+  position: relative;
+  top: 5vw;
+  margin: auto;
+
+  width: 10%;
+  height: 4.5vh;
+  line-height: 4.5vh;
+
+  background-color: #FCB443;
+  
+  font-weight: bold;
+  font-size: 0.8vw;
+  color: black;
+
+  border-radius: 3px;
+}
+
+.link-text{
+  font-size: 0.6vw;
+  font-weight: bold;
+}
+
+.link-icon{
+  margin-top: 1vh;
+}
+
 #main {
   background-image: url('../assets/bg-main.jpg');
   background-size: cover;
