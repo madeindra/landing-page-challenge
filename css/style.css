@@ -13,26 +13,26 @@ html, body {
 }
 
 #game-desc{
-  background-image: url('../assets/bg-main.jpg');
+  background-image: url('../assets/bg-game-desc.jpg');
   background-size: cover;
 }
 
 #features{
-  background-image: url('../assets/bg-main.jpg');
+  background-image: url('../assets/bg-features.jpg');
   background-size: cover;
 }
 
 #system-req{
-  background-image: url('../assets/bg-main.jpg');
+  background-image: url('../assets/bg-system-req.jpg');
   background-size: cover;
 }
 
 #top-score{
-  background-image: url('../assets/bg-main.jpg');
+  background-image: url('../assets/bg-top-score.jpg');
   background-size: cover;
 }
 
 #footer{
-  background-image: url('../assets/bg-main.jpg');
+  background-image: url('../assets/bg-footer.jpg');
   background-size: cover;
 }
